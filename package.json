@@ -1,0 +1,16 @@
+{
+  "name": "express-pt2-static-files",
+  "version": "1.0.0",
+  "description": "[Photo by **Anna Shvets** from **Pexels**](https://www.pexels.com/photo/face-mask-on-blue-background-3786153/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
+}
